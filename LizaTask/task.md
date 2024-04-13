@@ -9,6 +9,6 @@ x^2 - 4x + 4 &= 0 \\
 (x - 2)^2 &= 0 \\
 x - 2 &= 0 \\
 x &= 2
-\end{align*}$$
+\end{align}$$
 
 Therefore, the solution to the equation is $x = 2$.
