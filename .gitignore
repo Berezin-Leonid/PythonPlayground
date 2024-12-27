@@ -1,0 +1,9 @@
+# Игнорировать все файлы .DS_STORE
+.DS_Store
+
+# Игнорировать папку myenv
+myenv/
+
+__pycache__/
+
+config.py
